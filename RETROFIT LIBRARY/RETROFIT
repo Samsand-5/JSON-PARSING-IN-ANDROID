@@ -1,0 +1,2 @@
+With the help of JSON, we can access the data in the form of JsonArray, JsonObject, and JsonStringer. 
+In this article, we will specifically take a look at the implementation of JsonObject using the Retrofit library in Android.  
